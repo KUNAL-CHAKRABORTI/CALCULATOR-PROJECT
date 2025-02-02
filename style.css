@@ -44,9 +44,9 @@ button{
     
     border :none;
     width :60px;
-    height : 30px;
+    height : 40px;
     margin :10px;
-    font-size: large;
+    font-size: x-large;
     cursor : pointer;
     border-radius: 5px;
     
@@ -62,6 +62,6 @@ button{
 .outerbody{
     margin: 10px;
     padding: 20px;
-    background : tra;
+    background : transparent;
     box-shadow  : 0px 3px 15px rgba(21, 188, 203, 0.888)
 }
